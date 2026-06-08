@@ -1,0 +1,603 @@
+[
+  {
+    "id": "1",
+    "date": "2025-10-07",
+    "keyword": "bão koinu",
+    "content": "Trung Quốc cảnh báo bão Koinu...\nTrung Quốc cảnh báo bão Koinu......",
+    "sentiment": "neutral",
+    "sentiment_scores": {
+      "label": "neutral",
+      "positive": 0.33,
+      "negative": 0.34,
+      "neutral": 0.34,
+      "confidence": 0.34
+    },
+    "damage_types": [
+      "Khác"
+    ],
+    "damage_scores": {
+      "Người bị ảnh hưởng": 0.0,
+      "Gián đoạn kinh tế": 0.0,
+      "Nhà cửa bị hư hỏng": 0.0,
+      "Tài sản bị mất": 0.0,
+      "Cơ sở hạ tầng bị hư hỏng": 0.0,
+      "Khác": 1.0
+    }
+  },
+  {
+    "id": "2",
+    "date": "2025-10-06",
+    "keyword": "bão koinu",
+    "content": "Bão Koinu gây mưa giông diện rộng\n#reelsfb #reelsviral\nBão Koinu gây mưa giông diện rộng\n#reelsfb #reelsviral...",
+    "sentiment": "neutral",
+    "sentiment_scores": {
+      "label": "neutral",
+      "positive": 0.33,
+      "negative": 0.34,
+      "neutral": 0.34,
+      "confidence": 0.34
+    },
+    "damage_types": [
+      "Khác"
+    ],
+    "damage_scores": {
+      "Người bị ảnh hưởng": 0.0,
+      "Gián đoạn kinh tế": 0.0,
+      "Nhà cửa bị hư hỏng": 0.0,
+      "Tài sản bị mất": 0.0,
+      "Cơ sở hạ tầng bị hư hỏng": 0.0,
+      "Khác": 1.0
+    }
+  },
+  {
+    "id": "3",
+    "date": "2025-10-03",
+    "keyword": "bão koinu",
+    "content": "Bão Koinu sắp vào biển đông, cường độ rất\nmạnh...\nBão Koinu sắp vào biển đông, cường độ rất\nmạnh\n\n#reels #Koinu #biểnđông #bão...",
+    "sentiment": "neutral",
+    "sentiment_scores": {
+      "label": "neutral",
+      "positive": 0.33,
+      "negative": 0.34,
+      "neutral": 0.34,
+      "confidence": 0.34
+    },
+    "damage_types": [
+      "Khác"
+    ],
+    "damage_scores": {
+      "Người bị ảnh hưởng": 0.0,
+      "Gián đoạn kinh tế": 0.0,
+      "Nhà cửa bị hư hỏng": 0.0,
+      "Tài sản bị mất": 0.0,
+      "Cơ sở hạ tầng bị hư hỏng": 0.0,
+      "Khác": 1.0
+    }
+  },
+  {
+    "id": "4",
+    "date": "2025-11-28",
+    "keyword": "bão koinu",
+    "content": "Album Bão Tây Bắc Thái Bình Dương\nHán-Việt Thông Dụng added a new\nphoto.\nNov 28\n\n[Bão Tây Bắc Thái Bình Dương]\n\nTEMBIN\n\nGốc: tiếng Nhật\nĐề xướng: Nhật Bản\nHán tự: 天秤\nKana: てんびん\nLatin hoá: te-n-bi-n\nÂm...",
+    "sentiment": "neutral",
+    "sentiment_scores": {
+      "label": "neutral",
+      "positive": 0.33,
+      "negative": 0.34,
+      "neutral": 0.34,
+      "confidence": 0.34
+    },
+    "damage_types": [
+      "Người bị ảnh hưởng",
+      "Nhà cửa bị hư hỏng",
+      "Tài sản bị mất"
+    ],
+    "damage_scores": {
+      "Người bị ảnh hưởng": 0.3333333333333333,
+      "Gián đoạn kinh tế": 0.0,
+      "Nhà cửa bị hư hỏng": 0.3333333333333333,
+      "Tài sản bị mất": 0.3333333333333333,
+      "Cơ sở hạ tầng bị hư hỏng": 0.0
+    }
+  },
+  {
+    "id": "5",
+    "date": "2025-10-07",
+    "keyword": "bão koinu",
+    "content": "Bão Koinu quét qua Đài Loan với mưa lớn, 190\nngười bị thương\nBão Koinu quét qua Đài Loan với mưa lớn, 190\nngười bị thương...",
+    "sentiment": "neutral",
+    "sentiment_scores": {
+      "label": "neutral",
+      "positive": 0.33,
+      "negative": 0.34,
+      "neutral": 0.34,
+      "confidence": 0.34
+    },
+    "damage_types": [
+      "Người bị ảnh hưởng"
+    ],
+    "damage_scores": {
+      "Người bị ảnh hưởng": 0.6666666666666666,
+      "Gián đoạn kinh tế": 0.0,
+      "Nhà cửa bị hư hỏng": 0.0,
+      "Tài sản bị mất": 0.0,
+      "Cơ sở hạ tầng bị hư hỏng": 0.0
+    }
+  },
+  {
+    "id": "6",
+    "date": "2025-10-25",
+    "keyword": "bão koinu",
+    "content": "Piano\n\nBão Koinu\nBão Koinu...",
+    "sentiment": "neutral",
+    "sentiment_scores": {
+      "label": "neutral",
+      "positive": 0.33,
+      "negative": 0.34,
+      "neutral": 0.34,
+      "confidence": 0.34
+    },
+    "damage_types": [
+      "Khác"
+    ],
+    "damage_scores": {
+      "Người bị ảnh hưởng": 0.0,
+      "Gián đoạn kinh tế": 0.0,
+      "Nhà cửa bị hư hỏng": 0.0,
+      "Tài sản bị mất": 0.0,
+      "Cơ sở hạ tầng bị hư hỏng": 0.0,
+      "Khác": 1.0
+    }
+  },
+  {
+    "id": "7",
+    "date": "2025-10-04",
+    "keyword": "bão koinu",
+    "content": "Bão Koinu sắp đổ bộ biển Đông, cường độ rất\nmạnh...\nBão Koinu sắp đổ bộ biển Đông, cường độ rất\nmạnh\n#reelsfb #reelsviral...",
+    "sentiment": "neutral",
+    "sentiment_scores": {
+      "label": "neutral",
+      "positive": 0.33,
+      "negative": 0.34,
+      "neutral": 0.34,
+      "confidence": 0.34
+    },
+    "damage_types": [
+      "Nhà cửa bị hư hỏng"
+    ],
+    "damage_scores": {
+      "Người bị ảnh hưởng": 0.0,
+      "Gián đoạn kinh tế": 0.0,
+      "Nhà cửa bị hư hỏng": 0.3333333333333333,
+      "Tài sản bị mất": 0.0,
+      "Cơ sở hạ tầng bị hư hỏng": 0.0
+    }
+  },
+  {
+    "id": "8",
+    "date": "2025-10-13",
+    "keyword": "bão koinu",
+    "content": "Bão Koinu tàn phá đảo Đài Loan, Trung Quốc\n#bao #thamhoa #thientai #koinu #trungquoc...\nBão Koinu tàn phá đảo Đài Loan, Trung Quốc\n#bao #thamhoa #thientai #koinu #trungquoc\n#china...",
+    "sentiment": "neutral",
+    "sentiment_scores": {
+      "label": "neutral",
+      "positive": 0.33,
+      "negative": 0.34,
+      "neutral": 0.34,
+      "confidence": 0.34
+    },
+    "damage_types": [
+      "Khác"
+    ],
+    "damage_scores": {
+      "Người bị ảnh hưởng": 0.0,
+      "Gián đoạn kinh tế": 0.0,
+      "Nhà cửa bị hư hỏng": 0.0,
+      "Tài sản bị mất": 0.0,
+      "Cơ sở hạ tầng bị hư hỏng": 0.0,
+      "Khác": 1.0
+    }
+  },
+  {
+    "id": "9",
+    "date": "2025-11-12",
+    "keyword": "bão koinu",
+    "content": "Một hình ảnh đang được chia sẻ rộng rãi ghi lại\nkhoảnh khắc những người đàn ông mỉm cười\nkhi chạy tìm nơi an toàn trong cơn bão Uwan\n(Koinu). Nụ cười nhẹ nhõm sau phút vội vã ấy\nkhiến nhiều người dừng...",
+    "sentiment": "neutral",
+    "sentiment_scores": {
+      "label": "neutral",
+      "positive": 0.33,
+      "negative": 0.34,
+      "neutral": 0.34,
+      "confidence": 0.34
+    },
+    "damage_types": [
+      "Người bị ảnh hưởng",
+      "Tài sản bị mất"
+    ],
+    "damage_scores": {
+      "Người bị ảnh hưởng": 0.3333333333333333,
+      "Gián đoạn kinh tế": 0.0,
+      "Nhà cửa bị hư hỏng": 0.0,
+      "Tài sản bị mất": 0.3333333333333333,
+      "Cơ sở hạ tầng bị hư hỏng": 0.0
+    }
+  },
+  {
+    "id": "10",
+    "date": "2025-10-10",
+    "keyword": "bão koinu",
+    "content": "ĐN ngày bão Koinu nhưng vẫn đảm bảo hành\ntrình...",
+    "sentiment": "neutral",
+    "sentiment_scores": {
+      "label": "neutral",
+      "positive": 0.33,
+      "negative": 0.34,
+      "neutral": 0.34,
+      "confidence": 0.34
+    },
+    "damage_types": [
+      "Khác"
+    ],
+    "damage_scores": {
+      "Người bị ảnh hưởng": 0.0,
+      "Gián đoạn kinh tế": 0.0,
+      "Nhà cửa bị hư hỏng": 0.0,
+      "Tài sản bị mất": 0.0,
+      "Cơ sở hạ tầng bị hư hỏng": 0.0,
+      "Khác": 1.0
+    }
+  },
+  {
+    "id": "11",
+    "date": "2025-10-05",
+    "keyword": "bão koinu",
+    "content": "Bão KOINU có thể đi vào Biển Đông trong hôm\nnay #reels #voh #NSSG #tintuc #tinnhanh #t...\nBão KOINU có thể đi vào Biển Đông trong hôm\nnay #reels #voh #NSSG #tintuc #tinnhanh\n#tinnong #thoisu #news #bã...",
+    "sentiment": "neutral",
+    "sentiment_scores": {
+      "label": "neutral",
+      "positive": 0.33,
+      "negative": 0.34,
+      "neutral": 0.34,
+      "confidence": 0.34
+    },
+    "damage_types": [
+      "Khác"
+    ],
+    "damage_scores": {
+      "Người bị ảnh hưởng": 0.0,
+      "Gián đoạn kinh tế": 0.0,
+      "Nhà cửa bị hư hỏng": 0.0,
+      "Tài sản bị mất": 0.0,
+      "Cơ sở hạ tầng bị hư hỏng": 0.0,
+      "Khác": 1.0
+    }
+  },
+  {
+    "id": "12",
+    "date": "2025-10-06",
+    "keyword": "bão koinu",
+    "content": "Bão KOINU có thể đi vào Biển Đông trong hôm\nnay\nBão KOINU có thể đi vào Biển Đông trong hôm\nnay      \n\nNguồn: voh.radio...",
+    "sentiment": "neutral",
+    "sentiment_scores": {
+      "label": "neutral",
+      "positive": 0.33,
+      "negative": 0.34,
+      "neutral": 0.34,
+      "confidence": 0.34
+    },
+    "damage_types": [
+      "Khác"
+    ],
+    "damage_scores": {
+      "Người bị ảnh hưởng": 0.0,
+      "Gián đoạn kinh tế": 0.0,
+      "Nhà cửa bị hư hỏng": 0.0,
+      "Tài sản bị mất": 0.0,
+      "Cơ sở hạ tầng bị hư hỏng": 0.0,
+      "Khác": 1.0
+    }
+  },
+  {
+    "id": "13",
+    "date": "2025-10-06",
+    "keyword": "bão koinu",
+    "content": "Quá dữ: bão Koinu mang lại gió giật cấp 17,\nphá kỷ lục 126 năm qua, thiết bị đo sức gió c...\nQuá dữ: bão Koinu mang lại gió giật cấp 17,\nphá kỷ lục 126 năm qua, thiết bị đo sức gió\ncũng đã bị hỏng, hơ...",
+    "sentiment": "neutral",
+    "sentiment_scores": {
+      "label": "neutral",
+      "positive": 0.33,
+      "negative": 0.34,
+      "neutral": 0.34,
+      "confidence": 0.34
+    },
+    "damage_types": [
+      "Người bị ảnh hưởng",
+      "Tài sản bị mất",
+      "Cơ sở hạ tầng bị hư hỏng"
+    ],
+    "damage_scores": {
+      "Người bị ảnh hưởng": 0.3333333333333333,
+      "Gián đoạn kinh tế": 0.0,
+      "Nhà cửa bị hư hỏng": 0.0,
+      "Tài sản bị mất": 0.3333333333333333,
+      "Cơ sở hạ tầng bị hư hỏng": 0.3333333333333333
+    }
+  },
+  {
+    "id": "14",
+    "date": "2025-10-03",
+    "keyword": "bão koinu",
+    "content": "Bão Koinu giật trên cấp 17 sắp vào Biển Đông,\ncường độ rất mạnh #reels #voh #vohradio #...\nBão Koinu giật trên cấp 17 sắp vào Biển Đông,\ncường độ rất mạnh #reels #voh #vohradio\n#vohtintuc #tinnhanh #t...",
+    "sentiment": "neutral",
+    "sentiment_scores": {
+      "label": "neutral",
+      "positive": 0.33,
+      "negative": 0.34,
+      "neutral": 0.34,
+      "confidence": 0.34
+    },
+    "damage_types": [
+      "Khác"
+    ],
+    "damage_scores": {
+      "Người bị ảnh hưởng": 0.0,
+      "Gián đoạn kinh tế": 0.0,
+      "Nhà cửa bị hư hỏng": 0.0,
+      "Tài sản bị mất": 0.0,
+      "Cơ sở hạ tầng bị hư hỏng": 0.0,
+      "Khác": 1.0
+    }
+  },
+  {
+    "id": "15",
+    "date": "2025-10-06",
+    "keyword": "bão koinu",
+    "content": "Bão Koinu vào Biển Đông trở thành cơn bão số\n4 #reels #vohtintuc #vohradio #tintuc #tinnh...\nBão Koinu vào Biển Đông trở thành cơn bão số\n4 #reels #vohtintuc #vohradio #tintuc\n#tinnhanh #tinnong #thoi...",
+    "sentiment": "neutral",
+    "sentiment_scores": {
+      "label": "neutral",
+      "positive": 0.33,
+      "negative": 0.34,
+      "neutral": 0.34,
+      "confidence": 0.34
+    },
+    "damage_types": [
+      "Khác"
+    ],
+    "damage_scores": {
+      "Người bị ảnh hưởng": 0.0,
+      "Gián đoạn kinh tế": 0.0,
+      "Nhà cửa bị hư hỏng": 0.0,
+      "Tài sản bị mất": 0.0,
+      "Cơ sở hạ tầng bị hư hỏng": 0.0,
+      "Khác": 1.0
+    }
+  },
+  {
+    "id": "16",
+    "date": "2025-10-02",
+    "keyword": "bão koinu",
+    "content": "Nóng: bão Koinu đã hình thành, dự kiến sẽ ảnh\nhưởng trực tiếp và đổ bộ vào Đài Loan trong ...\nNóng: bão Koinu đã hình thành, dự kiến sẽ ảnh\nhưởng trực tiếp và đổ bộ vào Đài Loan trong 3\nngày tới...",
+    "sentiment": "neutral",
+    "sentiment_scores": {
+      "label": "neutral",
+      "positive": 0.33,
+      "negative": 0.34,
+      "neutral": 0.34,
+      "confidence": 0.34
+    },
+    "damage_types": [
+      "Nhà cửa bị hư hỏng"
+    ],
+    "damage_scores": {
+      "Người bị ảnh hưởng": 0.0,
+      "Gián đoạn kinh tế": 0.0,
+      "Nhà cửa bị hư hỏng": 0.3333333333333333,
+      "Tài sản bị mất": 0.0,
+      "Cơ sở hạ tầng bị hư hỏng": 0.0
+    }
+  },
+  {
+    "id": "17",
+    "date": "2025-10-04",
+    "keyword": "bão koinu",
+    "content": "Quá nguy hiểm: bão Koinu chưa đổ bộ Đài\nLoan, đã có một phần ngôi đền ở Đài Nam bị ...\nQuá nguy hiểm: bão Koinu chưa đổ bộ Đài\nLoan, đã có một phần ngôi đền ở Đài Nam bị\nthổi bay...",
+    "sentiment": "neutral",
+    "sentiment_scores": {
+      "label": "neutral",
+      "positive": 0.33,
+      "negative": 0.34,
+      "neutral": 0.34,
+      "confidence": 0.34
+    },
+    "damage_types": [
+      "Nhà cửa bị hư hỏng"
+    ],
+    "damage_scores": {
+      "Người bị ảnh hưởng": 0.0,
+      "Gián đoạn kinh tế": 0.0,
+      "Nhà cửa bị hư hỏng": 0.3333333333333333,
+      "Tài sản bị mất": 0.0,
+      "Cơ sở hạ tầng bị hư hỏng": 0.0
+    }
+  },
+  {
+    "id": "18",
+    "date": "2025-10-03",
+    "keyword": "bão koinu",
+    "content": "Cập nhật bão Koinu tối ngày 3/10: có 3 địa\nphương thông báo ngày mai nghỉ bão\nCập nhật bão Koinu tối ngày 3/10: có 3 địa\nphương thông báo ngày mai nghỉ bão...",
+    "sentiment": "neutral",
+    "sentiment_scores": {
+      "label": "neutral",
+      "positive": 0.33,
+      "negative": 0.34,
+      "neutral": 0.34,
+      "confidence": 0.34
+    },
+    "damage_types": [
+      "Khác"
+    ],
+    "damage_scores": {
+      "Người bị ảnh hưởng": 0.0,
+      "Gián đoạn kinh tế": 0.0,
+      "Nhà cửa bị hư hỏng": 0.0,
+      "Tài sản bị mất": 0.0,
+      "Cơ sở hạ tầng bị hư hỏng": 0.0,
+      "Khác": 1.0
+    }
+  },
+  {
+    "id": "19",
+    "date": "2025-10-07",
+    "keyword": "bão koinu",
+    "content": "Bão số 4 bất ngờ mạnh lên, giật cấp 16 \n#reels #bãosố4 #Koinu\nBão số 4 bất ngờ mạnh lên, giật cấp 16 \n#reels #bãosố4 #Koinu...",
+    "sentiment": "neutral",
+    "sentiment_scores": {
+      "label": "neutral",
+      "positive": 0.33,
+      "negative": 0.34,
+      "neutral": 0.34,
+      "confidence": 0.34
+    },
+    "damage_types": [
+      "Khác"
+    ],
+    "damage_scores": {
+      "Người bị ảnh hưởng": 0.0,
+      "Gián đoạn kinh tế": 0.0,
+      "Nhà cửa bị hư hỏng": 0.0,
+      "Tài sản bị mất": 0.0,
+      "Cơ sở hạ tầng bị hư hỏng": 0.0,
+      "Khác": 1.0
+    }
+  },
+  {
+    "id": "20",
+    "date": "2025-10-15",
+    "keyword": "bão koinu",
+    "content": "恋愛成就 (Renai Jouju)\n／Riinu【HoneyWorks】【Vietsub】\n「恋愛成就 (Renai Jouju - tạm dịch:Tình yêu\ntoàn vẹn)」／HoneyWorks【C94：XFD】\n- Crossfade xem tại: https://youtu.\nbe/OpnO1IAUvmw\n\nSingle mới nằm trong KoJiIi Ren...",
+    "sentiment": "neutral",
+    "sentiment_scores": {
+      "label": "neutral",
+      "positive": 0.33,
+      "negative": 0.34,
+      "neutral": 0.34,
+      "confidence": 0.34
+    },
+    "damage_types": [
+      "Người bị ảnh hưởng",
+      "Tài sản bị mất"
+    ],
+    "damage_scores": {
+      "Người bị ảnh hưởng": 0.3333333333333333,
+      "Gián đoạn kinh tế": 0.0,
+      "Nhà cửa bị hư hỏng": 0.0,
+      "Tài sản bị mất": 0.3333333333333333,
+      "Cơ sở hạ tầng bị hư hỏng": 0.0
+    }
+  },
+  {
+    "id": "21",
+    "date": "2025-10-14",
+    "keyword": "bão koinu",
+    "content": "生意気ハニー (Namaiki Honey) ／HoneyWorks\nfeat.Uratauki (Short Ver.) 【Vietsub】\n- Original Video: https://www.youtube.\ncom/watch?v0ap50nJPOgo\n- Crossfade xem tại: https://youtu.\nbe/OpnO1IAUvmw\n\nSingle mới nằm...",
+    "sentiment": "neutral",
+    "sentiment_scores": {
+      "label": "neutral",
+      "positive": 0.33,
+      "negative": 0.34,
+      "neutral": 0.34,
+      "confidence": 0.34
+    },
+    "damage_types": [
+      "Người bị ảnh hưởng",
+      "Tài sản bị mất"
+    ],
+    "damage_scores": {
+      "Người bị ảnh hưởng": 0.3333333333333333,
+      "Gián đoạn kinh tế": 0.0,
+      "Nhà cửa bị hư hỏng": 0.0,
+      "Tài sản bị mất": 0.3333333333333333,
+      "Cơ sở hạ tầng bị hư hỏng": 0.0
+    }
+  },
+  {
+    "id": "22",
+    "date": "2025-03-23",
+    "keyword": "bão koinu",
+    "content": "KOI Sheen 28mm đính 90 viên kim cương\nnhân tạo đẹp mê\n KOI Sheen 28mm vừa vặn với hầu hết cổ tay\nphái đẹp, thêm đường nét thanh thoát đẹp mê!\n\nNàng phân vân không biết nên chọn mặt đồng\nhồ kích thước ...",
+    "sentiment": "neutral",
+    "sentiment_scores": {
+      "label": "neutral",
+      "positive": 0.33,
+      "negative": 0.34,
+      "neutral": 0.34,
+      "confidence": 0.34
+    },
+    "damage_types": [
+      "Nhà cửa bị hư hỏng",
+      "Tài sản bị mất",
+      "Cơ sở hạ tầng bị hư hỏng"
+    ],
+    "damage_scores": {
+      "Người bị ảnh hưởng": 0.0,
+      "Gián đoạn kinh tế": 0.0,
+      "Nhà cửa bị hư hỏng": 0.3333333333333333,
+      "Tài sản bị mất": 0.3333333333333333,
+      "Cơ sở hạ tầng bị hư hỏng": 0.6666666666666666
+    }
+  },
+  {
+    "id": "23",
+    "date": "2025-11-02",
+    "keyword": "bão koinu",
+    "content": "KOI MOONPHASE – VẺ ĐẸP CỦA ÁNH\nTRĂNG TRÊN CỔ TAY ...\n KOI MOONPHASE – VẺ ĐẸP CỦA ÁNH\nTRĂNG TRÊN CỔ TAY \nTựa như một khúc nhạc dịu êm giữa trời đêm,\nKOI MOONPHASE K006.152.65.2.33.11.04\nmang đến vẻ đẹp...",
+    "sentiment": "neutral",
+    "sentiment_scores": {
+      "label": "neutral",
+      "positive": 0.33,
+      "negative": 0.34,
+      "neutral": 0.34,
+      "confidence": 0.34
+    },
+    "damage_types": [
+      "Người bị ảnh hưởng",
+      "Nhà cửa bị hư hỏng",
+      "Tài sản bị mất",
+      "Cơ sở hạ tầng bị hư hỏng"
+    ],
+    "damage_scores": {
+      "Người bị ảnh hưởng": 0.3333333333333333,
+      "Gián đoạn kinh tế": 0.0,
+      "Nhà cửa bị hư hỏng": 0.6666666666666666,
+      "Tài sản bị mất": 0.3333333333333333,
+      "Cơ sở hạ tầng bị hư hỏng": 1.0
+    }
+  },
+  {
+    "id": "24",
+    "date": "2025-10-02",
+    "keyword": "bão koinu",
+    "content": "Hiện nay, tại khu vực phía Đông Philippines\nđang xuất hiện một cơn bão có tên quốc tế là...\nHiện nay, tại khu vực phía Đông Philippines\nđang xuất hiện một cơn bão có tên quốc tế là\nKOINU, có khả năng ...",
+    "sentiment": "neutral",
+    "sentiment_scores": {
+      "label": "neutral",
+      "positive": 0.33,
+      "negative": 0.34,
+      "neutral": 0.34,
+      "confidence": 0.34
+    },
+    "damage_types": [
+      "Khác"
+    ],
+    "damage_scores": {
+      "Người bị ảnh hưởng": 0.0,
+      "Gián đoạn kinh tế": 0.0,
+      "Nhà cửa bị hư hỏng": 0.0,
+      "Tài sản bị mất": 0.0,
+      "Cơ sở hạ tầng bị hư hỏng": 0.0,
+      "Khác": 1.0
+    }
+  }
+]
