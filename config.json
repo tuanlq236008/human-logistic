@@ -1,0 +1,14 @@
+{
+  "loginMode" : "AUTO",
+  "email" : "anjikiz256@gmail.com",
+  "password" : "Ab24152415@",
+  "navigationMode" : "SEARCH",
+  "platform" : "web",
+  "keywords" : [ "bão koinu" ],
+  "postLimitPerKeyword" : 50,
+  "driverPaths" : {
+    "windows" : "drivers\\chromedriver.exe",
+    "mac" : "/Users/lequoctuan/Desktop/project/drivers/chromedriver",
+    "linux" : "drivers/chromedriver"
+  }
+}

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Region?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="900.0" prefWidth="1500.0" xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1">
+   <center>
+      <GridPane prefHeight="774.0" prefWidth="863.0" style="-fx-border-color: black;" BorderPane.alignment="CENTER">
+        <columnConstraints>
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="498.0" minWidth="10.0" prefWidth="307.0" />
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="333.0" minWidth="10.0" prefWidth="278.0" />
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="278.0" minWidth="0.0" prefWidth="278.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints maxHeight="507.0" minHeight="10.0" prefHeight="261.0" vgrow="SOMETIMES" />
+          <RowConstraints maxHeight="407.0" minHeight="10.0" prefHeight="210.0" vgrow="SOMETIMES" />
+          <RowConstraints maxHeight="277.0" minHeight="10.0" prefHeight="228.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="247.0" minHeight="10.0" prefHeight="247.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Label alignment="CENTER" prefHeight="44.0" prefWidth="319.0" text="Từ khoá / hashtag" textFill="#2d698a">
+               <font>
+                  <Font name="System Bold" size="27.0" />
+               </font></Label>
+            <Label alignment="CENTER" prefHeight="33.0" prefWidth="328.0" text="Thời gian" textFill="#2d698a" GridPane.rowIndex="1">
+               <font>
+                  <Font name="System Bold" size="27.0" />
+               </font></Label>
+            <Label fx:id="label" alignment="CENTER" prefHeight="33.0" prefWidth="327.0" text="App" textFill="#2d698a" GridPane.rowIndex="2">
+               <font>
+                  <Font name="System Bold" size="27.0" />
+               </font></Label>
+            
+            <DatePicker fx:id="dpStartDate" prefHeight="50.0" prefWidth="250.0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+            <DatePicker fx:id="dpEndDate" prefHeight="50.0" prefWidth="250.0" GridPane.columnIndex="2" GridPane.rowIndex="1" />
+            
+            <ComboBox fx:id="cbAppSource" prefHeight="50.0" prefWidth="250.0" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+            <Button alignment="CENTER" mnemonicParsing="false" onAction="#btnContinuePressed" prefHeight="33.0" prefWidth="172.0" style="-fx-background-color: #5a8a8d;" text="Tiếp tục" textFill="#234e51" GridPane.columnIndex="1" GridPane.rowIndex="3">
+               <padding>
+                  <Insets bottom="8.0" left="8.0" right="8.0" top="8.0" />
+               </padding>
+               <font>
+                  <Font name="System Bold Italic" size="23.0" />
+               </font>
+            </Button>
+            <TextField fx:id="keyword" prefHeight="44.0" prefWidth="333.0" GridPane.columnIndex="1" />
+         
+         </children>
+      </GridPane>
+   </center>
+   <left>
+      <VBox prefHeight="892.0" prefWidth="341.0" style="-fx-background-color: #b3c5cd;" BorderPane.alignment="CENTER">
+         <children>
+            <Region prefHeight="191.0" prefWidth="341.0" />
+            <HBox prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <Region prefHeight="141.0" prefWidth="61.0" />
+                  <ImageView fitHeight="150.0" fitWidth="203.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../image/logo.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </HBox>
+            <Region prefHeight="65.0" prefWidth="337.0" />
+            <Label alignment="CENTER" prefHeight="48.0" prefWidth="337.0" text="HumaLogistics" textFill="#2d698a">
+               <font>
+                  <Font name="System Bold" size="35.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" prefHeight="42.0" prefWidth="337.0" text="Analytics" textFill="#2d698a">
+               <font>
+                  <Font name="System Bold" size="35.0" />
+               </font>
+            </Label>
+            <Region prefHeight="75.0" prefWidth="341.0" />
+            <Label alignment="CENTER" prefHeight="17.0" prefWidth="355.0" text="Nền tảng phân tích dữ liệu mạng xã hội">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" prefHeight="26.0" prefWidth="353.0" text="giúp tối ưu hoá lộ trình viện trợ và phân">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" prefHeight="17.0" prefWidth="400.0" text="bổ nguồn nhân lực nhân đạo chính  xác">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Label>
+         </children></VBox>
+   </left>
+   <right>
+      <VBox prefHeight="327.0" prefWidth="0.0" BorderPane.alignment="CENTER" />
+   </right>
+</BorderPane>
